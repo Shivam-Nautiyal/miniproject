@@ -1,0 +1,63 @@
+
+html {
+    font-size: 22px;
+    background-image: url("burgerback.jpg");
+    color: white;
+    font-family: 'Unbounded', cursive;
+}
+
+body {
+  
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+    
+}
+
+th, td, caption {
+    border: 1px solid #333;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
+nav{
+    background-color: yellow;
+    color: white;
+    margin: 0;
+    padding-left: 14px;
+}
+header h1{
+    background-color: #333;
+    color: white;
+    display: inline;
+}
+footer
+{
+    text-align: center;
+    background-color: #333;
+    color: white;
+}
+#about
+{
+    display: inline-block;
+    background-color:whitesmoke;
+    color: black;
+}
+#menu
+{
+    display: inline-block;
+    background-color:gray;
+    color: black;
+}
+#hours2
+{
+    display: inline-block;
+    background-color:gray;
+    color: black;
+}
+#contact2
+{
+    display: inline-block;
+    background-color:gray;
+    color: black;
+}
